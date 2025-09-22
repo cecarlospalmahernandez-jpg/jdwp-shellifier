@@ -37,7 +37,7 @@ Before sending questions, make sure to read http://blog.ioactive.com/2014/04/hac
 ## Thanks
 * Ilja Van Sprundel
 * Sebastien Macke
-
+core/java/android/content/pm/PackageManager.java
 
 
 
